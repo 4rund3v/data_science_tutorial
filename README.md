@@ -1,2 +1,2 @@
-# tutorials
-The code commited while the code tutorials on yt.
+# Data Science Tutorial
+The code, notebooks and notes that was used for the youtube series of Data-Science-Tutorial
