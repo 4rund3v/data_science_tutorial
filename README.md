@@ -7,7 +7,7 @@ The libraries discussed are :
        - Numpy Introduction 001
        - Numpy Basics 002
  - [x] Pandas
- - [x] Scikit-learn
+ - [ ] Scikit-learn
  - [ ] Matplotlib
  - [ ] Seaborn
  - [ ] Tensorflow
